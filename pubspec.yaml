@@ -1,0 +1,5 @@
+name: fiqh_dart_sawm_kaffarah_calc
+description: "Ramadan Sawm Qada, Fidyah & Kaffarah Obligation Resolver"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
